@@ -47,7 +47,7 @@ body {
 .team-row {
   display: flex;
   align-items: center;
-  gap: 30px; /* space between image and text */
+  gap: 30px;
   margin-bottom: 50px;
 }
 
